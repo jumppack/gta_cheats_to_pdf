@@ -1,4 +1,0 @@
-<svg width="100" height="60" viewBox="0 0 100 60" xmlns="http://www.w3.org/2000/svg">
-  <rect x="20" y="15" width="60" height="30" rx="15" ry="15" fill="#444" stroke="#111" stroke-width="2"/>
-  <text x="50" y="38" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#fff">SELECT</text>
-</svg>
